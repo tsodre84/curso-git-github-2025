@@ -1,0 +1,4 @@
+git init . -> cria um repo git na pasta atual
+git status -> mostra status do trablho de cada arquivo
+
+

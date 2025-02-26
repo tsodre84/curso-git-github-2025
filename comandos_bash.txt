@@ -11,6 +11,8 @@ cd ~       # Vai para o diretório do usuário (/home/usuario)
 whoami     # Mostra o nome do usuário atual
 hostname   # Exibe o nome do computador
 uname -a   # Exibe informações do sistema operacional
+cat 	   # Exibe conteudo do arquivo
+
 
 Manipulação de Arquivos e Diretórios
 
@@ -25,3 +27,5 @@ cat arquivo.txt     # Exibe o conteúdo do arquivo
 less arquivo.txt    # Exibe o conteúdo com rolagem
 head arquivo.txt    # Mostra as primeiras 10 linhas do arquivo
 tail arquivo.txt    # Mostra as últimas 10 linhas do arquivo
+
+
