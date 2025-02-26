@@ -1,0 +1,27 @@
+Navegação e Informações do Sistema
+
+pwd        # Mostra o diretório atual
+ls         # Lista arquivos e diretórios
+ls -l      # Lista com detalhes (permissões, dono, tamanho, data)
+ls -a      # Lista arquivos ocultos também
+cd pasta/  # Entra no diretório 'pasta'
+cd ..      # Volta um nível na hierarquia de diretórios
+cd /       # Vai para o diretório raiz
+cd ~       # Vai para o diretório do usuário (/home/usuario)
+whoami     # Mostra o nome do usuário atual
+hostname   # Exibe o nome do computador
+uname -a   # Exibe informações do sistema operacional
+
+Manipulação de Arquivos e Diretórios
+
+touch arquivo.txt   # Cria um arquivo vazio
+mkdir nova_pasta    # Cria um diretório
+rm arquivo.txt      # Remove um arquivo
+rm -r pasta/        # Remove um diretório e seu conteúdo
+cp arquivo.txt pasta/  # Copia um arquivo para uma pasta
+mv arquivo.txt novo_nome.txt  # Renomeia/move um arquivo
+mv arquivo.txt pasta/  # Move um arquivo para outra pasta
+cat arquivo.txt     # Exibe o conteúdo do arquivo
+less arquivo.txt    # Exibe o conteúdo com rolagem
+head arquivo.txt    # Mostra as primeiras 10 linhas do arquivo
+tail arquivo.txt    # Mostra as últimas 10 linhas do arquivo
