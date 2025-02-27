@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 estudo branch
 =======
 estudo de branch
+>>>>>>> secundaria
+=======
+teste branch
 >>>>>>> secundaria
