@@ -20,7 +20,7 @@ Atualmente, estou aprendendo **Git e GitHub** para melhorar minhas habilidades e
 ## 📫 Onde me encontrar  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)  
-
+[![X]
 ---
 
 🚀 *"Aprendendo Git e GitHub para versionar meus projetos como um profissional!"*  
