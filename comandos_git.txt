@@ -1,15 +1,9 @@
-Comando					Descrição
 
-git init .			-> Cria novo repositório git!
-
-git status		 	-> Mostra o status da branch atual!
-
-git add <nome arquivo> 		-> Manda arquivo para stage!
-
-git commit -m "minha mensagem"	-> Consolida o checkpoint "commit"!
-
-git log				-> Exibe histórico de commits!
-
-git reset			-> Retorna para unstage!
-
-git reset idCommit           	-> Retorna para pos-commit!
+git init .				-> Cria novo repositório git
+git status		 		-> Mostra o status da branch atual
+git add <nome arquivo> 			-> Manda arquivo para stage
+git commit -m "minha mensagem"		-> Consolida o checkpoint "commit"
+git log					-> Exibe histórico de commits
+git reset				-> Retorna para unstage
+git reset idCommit           		-> Retorna para pos-commit
+>>>>>>> gisele
