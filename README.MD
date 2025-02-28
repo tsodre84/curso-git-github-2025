@@ -9,6 +9,9 @@ Atualmente, estou aprendendo **Git e GitHub** para melhorar minhas habilidades e
 - 📂 Criando e organizando meus repositórios  
 - 💡 Explorando novas funcionalidades do Git  
 
+
+Estou a melhorar. 
+
 ## 🛠️ Tecnologias e Ferramentas  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
