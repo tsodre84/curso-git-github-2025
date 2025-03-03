@@ -23,7 +23,7 @@ Atualmente, estou aprendendo **Git e GitHub** para melhorar minhas habilidades e
 [![X]
 [![Instragran]
 
-
+Continuação de testes entra local e remoto.
 ---
 
 🚀 *"Aprendendo Git e GitHub para versionar meus projetos como um profissional!"*  
